@@ -1,0 +1,5152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name></name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>教堂街頭服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區博愛里建國二路１６８號１樓 </address>
+				<Point>
+					<coordinates>120.308167,22.637754,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>崔記茶餐廳</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區興東里二聖二路６７號 </address>
+				<Point>
+					<coordinates>120.3160691,22.6130353,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>佳亭國際髮型店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區文化路６４之３號１至３樓 </address>
+				<Point>
+					<coordinates>120.3039716,22.6232352,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>品悅美食店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大社區大社里中山路２８２－２號 </address>
+				<Point>
+					<coordinates>120.3496057,22.7316309,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>三好小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區藍田里藍昌路３６９號 </address>
+				<Point>
+					<coordinates>120.2912064,22.7254347,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>岏酷企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他電腦相關服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區岡山里１８鄰文化街２１號２樓 </address>
+				<Point>
+					<coordinates>120.2974442,22.7878481,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>上鼎藥師健保藥局</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>西藥零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大社區翠屏里中山路４２３號 </address>
+				<Point>
+					<coordinates>120.3525508,22.7314362,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吳家紅茶冰</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>調理飲料攤販</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區忠義里光復路１段１２５號１樓 </address>
+				<Point>
+					<coordinates>120.3549296,22.629303,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>大發鑄刻印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>刻印章</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區正氣里仁愛二街４３號 </address>
+				<Point>
+					<coordinates>120.3080825,22.6234573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>僑美蛋糕西點麵包店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>西點麵包零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區安祥里六合路５７號１樓 </address>
+				<Point>
+					<coordinates>120.317713,22.631949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>福俊企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車零件、汽車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區竹中里廣西路３９號 </address>
+				<Point>
+					<coordinates>120.3214277,22.6155321,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>金洲皮鞋店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>真皮鞋類及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區大連街１１４號 </address>
+				<Point>
+					<coordinates>120.305336,22.642993,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>阿明洗衣店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>洗衣服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區漢口街３８號１樓 </address>
+				<Point>
+					<coordinates>120.2972609,22.6421372,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>昆德機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區建昌里右昌街７４號 </address>
+				<Point>
+					<coordinates>120.2914319,22.7098144,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>大都會體育運動廣場</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他運動用品及器材零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶安里民成街４７號 </address>
+				<Point>
+					<coordinates>120.3310583,22.6402945,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>綠亭冰菓店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區南港里忠孝一路４６４號１樓 </address>
+				<Point>
+					<coordinates>120.3065116,22.6349313,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>林森鎖匙行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區南港里林森一路２５８號１樓 </address>
+				<Point>
+					<coordinates>120.3051045,22.6355287,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>一甲企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>家事服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶盛里教仁路１０６號４樓 </address>
+				<Point>
+					<coordinates>120.3269292,22.6390235,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>雞伯燒酒雞</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區建興里八德二路７６－１號１樓 </address>
+				<Point>
+					<coordinates>120.2981284,22.6358082,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>傑米髮容造型</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區同慶里四維二路１６號 </address>
+				<Point>
+					<coordinates>120.3233141,22.6238583,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>伊慧美容坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區光輝里和光街１４２巷３號 </address>
+				<Point>
+					<coordinates>120.295722,22.7080585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>四季逗黑砂糖木瓜牛奶</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區鼓中里自強三路１１４號 </address>
+				<Point>
+					<coordinates>120.2987821,22.616642,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>正昇行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他食品、飲料及菸草製品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區延吉街１０８號 </address>
+				<Point>
+					<coordinates>120.319872,22.6416201,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>小帆船小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區忠孝一路４６２號 </address>
+				<Point>
+					<coordinates>120.3064579,22.6348653,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>時代鐘錶眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市林園區東林里東林西路３２號１樓 </address>
+				<Point>
+					<coordinates>120.3948083,22.5039796,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>信昌鎖印店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區自強一路２５４號 </address>
+				<Point>
+					<coordinates>120.2913388,22.6360263,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>双吉利鮮花店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>切花、盆栽零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大社區大社里中山路１９８號 </address>
+				<Point>
+					<coordinates>120.3474038,22.7318657,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>一加一商店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>罐頭批發</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大社區中里里三民路６２巷１４３之５號 </address>
+				<Point>
+					<coordinates>120.3527919,22.7227951,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>大佳眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文德里青年路２段５５６號 </address>
+				<Point>
+					<coordinates>120.3493669,22.6459098,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>錦鶴溫州餛飩</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區鳳崗里曹公路１６－２號 </address>
+				<Point>
+					<coordinates>120.3572391,22.6287193,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>傑士男裝屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區正義里五甲二路１９７號 </address>
+				<Point>
+					<coordinates>120.3397832,22.6007082,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>正合眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區瑞竹里２１鄰瑞竹路１１６號 </address>
+				<Point>
+					<coordinates>120.3677842,22.6263634,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>華一兒童天地社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>書籍、雜誌零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市林園區王公里林園北路４１７號 </address>
+				<Point>
+					<coordinates>120.3947364,22.5114766,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>保視佳眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區鎮南里五甲二路６６８號１樓 </address>
+				<Point>
+					<coordinates>120.3305841,22.5952877,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>永健餐具店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>免洗餐具零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區成功里成功路５４巷２３號１樓 </address>
+				<Point>
+					<coordinates>120.359127,22.623467,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>明輝眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>鐘錶維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區中和里中山西路３０５號 </address>
+				<Point>
+					<coordinates>120.346942,22.627872,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>合隆車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里建和街８０號１樓 </address>
+				<Point>
+					<coordinates>120.3202368,22.6472771,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>鴻典汽車材料行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車零件、汽車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區本和里大豐一路３８９號 </address>
+				<Point>
+					<coordinates>120.327858,22.6588195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>艾莉潘朶精品服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新上里富民路４１２號 </address>
+				<Point>
+					<coordinates>120.3053798,22.6660653,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>永宜美味小吃部</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區安祥里六合路４２―４號 </address>
+				<Point>
+					<coordinates>120.318433,22.632403,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>拾貳喳企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振華里文橫二路１４４―１號１樓 </address>
+				<Point>
+					<coordinates>120.3042252,22.6219032,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>炫達車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區慶昌里後昌路７８６之１號 </address>
+				<Point>
+					<coordinates>120.2957641,22.7110345,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>愛寶石服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文德里文衡路４９６號 </address>
+				<Point>
+					<coordinates>120.3498478,22.64115,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>蘇西女孩食堂</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區清豐里土庫二路６２號１樓 </address>
+				<Point>
+					<coordinates>120.3275144,22.7374319,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>清文車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>M-POS行動收單</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區良和里管仲路４７號１樓 </address>
+				<Point>
+					<coordinates>120.311527,22.606719,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>鈺新拼布屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區榮治里大同一路２２９巷１９號１樓 </address>
+				<Point>
+					<coordinates>120.2996379,22.627723,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>松新機車材料行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里正興路３６號１樓 </address>
+				<Point>
+					<coordinates>120.3222018,22.6458263,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>信泓機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區國昌里德民路９７６號 </address>
+				<Point>
+					<coordinates>120.2885446,22.7207134,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>月讀館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>咖啡館</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區港東里建國二路２５９號 </address>
+				<Point>
+					<coordinates>120.3042797,22.6374294,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>久裕商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>水產品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鳳北里三鳳中街１０２―１號 </address>
+				<Point>
+					<coordinates>120.293534,22.63756,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>丘林一坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區苓洲里新田路３９１號１樓 </address>
+				<Point>
+					<coordinates>120.2943785,22.6190127,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>成功一號美食店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區田西里成功一路２０２號 </address>
+				<Point>
+					<coordinates>120.2968902,22.6167203,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>壹玖壹果汁茶飲</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區鎮南里３鄰五甲二路５３２號１樓 </address>
+				<Point>
+					<coordinates>120.3336401,22.5967003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>菲凡企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區正義里４４鄰五甲二路１０５巷８－１號１樓 </address>
+				<Point>
+					<coordinates>120.3415119,22.6015104,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>甘嘛店皮革社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>鞋類及其配件（真皮鞋類及其配件除外）零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區壽天里８鄰平和路１１６號１樓 </address>
+				<Point>
+					<coordinates>120.2936757,22.7947048,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>楊皇機車精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市路竹區竹南里中正路３１１號１樓 </address>
+				<Point>
+					<coordinates>120.2659192,22.8541376,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>明德昌眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>LINE</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市路竹區竹南里１１鄰中山路１１９１號１樓 </address>
+				<Point>
+					<coordinates>120.2614964,22.8540736,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>泓毅機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文福里青年路２段２０１－５號１樓 </address>
+				<Point>
+					<coordinates>120.3503274,22.636363,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>進城糯米小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳥松區鳥松里文前路３３號 </address>
+				<Point>
+					<coordinates>120.3618968,22.6625352,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>米朗琪咖啡屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>咖啡館</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區曹公里中正路１８２－５號１樓 </address>
+				<Point>
+					<coordinates>120.3607323,22.629152,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>合歡髮型設計店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>行動支付</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區壽天里公園東路９６號１樓 </address>
+				<Point>
+					<coordinates>120.2915105,22.7994654,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>正二商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鳳南里中華三路２５５號１樓 </address>
+				<Point>
+					<coordinates>120.2933471,22.6352412,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>亮佑輪胎行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車輪胎零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區博惠里凱旋一路９３號１樓 </address>
+				<Point>
+					<coordinates>120.3198236,22.6344414,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>麻布工坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區德望里復橫一路１３６―１號１樓 </address>
+				<Point>
+					<coordinates>120.3091105,22.6293705,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>門二十五髮藝沙龍店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區龍水里美術東二路１２８號 </address>
+				<Point>
+					<coordinates>120.2883031,22.6540719,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>樂菲力小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１４３巷３６號 </address>
+				<Point>
+					<coordinates>120.3028788,22.6224277,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>昌泰機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區同德里熱河一街６９號 </address>
+				<Point>
+					<coordinates>120.3120025,22.6432682,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>昌泰機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區同德里熱河一街６９號 </address>
+				<Point>
+					<coordinates>120.3120025,22.6432682,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>蕝色商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１５５號 </address>
+				<Point>
+					<coordinates>120.3034906,22.6230585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>愛優商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他玩具及娛樂用品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區灣中里建工路６８８號 </address>
+				<Point>
+					<coordinates>120.3211675,22.6490461,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>璉成冷飲店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區錦屏里後昌路２１號 </address>
+				<Point>
+					<coordinates>120.312574,22.720389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>金山鎖印</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>刻印章</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區福山里文自路８２９號 </address>
+				<Point>
+					<coordinates>120.3149331,22.6845278,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>儒技髮型工作坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>LINE</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶龍里建興路２８９號１樓 </address>
+				<Point>
+					<coordinates>120.3237122,22.645469,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>新光堂鎖印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區東坡里球庭路９１之１號 </address>
+				<Point>
+					<coordinates>120.3032469,22.6303665,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>新巧屋烘焙食品行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>糕餅麵包製造</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區林投里前金二街５０號１樓 </address>
+				<Point>
+					<coordinates>120.2920739,22.627099,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>建興早餐店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正順里建興路３３６號 </address>
+				<Point>
+					<coordinates>120.322921,22.646734,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>承嬑髮型工作坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>信用卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區正苓里漢民路２７２號１樓 </address>
+				<Point>
+					<coordinates>120.353474,22.56669,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>幸福荳荳烘焙屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>經營網路購物</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區精華里嫩江街５９巷８號 </address>
+				<Point>
+					<coordinates>120.2980218,22.6427489,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>食養企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新上里裕誠路１６７號１樓 </address>
+				<Point>
+					<coordinates>120.3111792,22.6640836,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>就是愛洋行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>鞋類及其配件（真皮鞋類及其配件除外）零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１５５號２樓 </address>
+				<Point>
+					<coordinates>120.3034906,22.6230585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>圓創包裝材料行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>手工藝品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區港東里林森一路２９２號１樓 </address>
+				<Point>
+					<coordinates>120.30534,22.636939,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>松軒企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>影印服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區翠屏里德賢路１７５號１樓 </address>
+				<Point>
+					<coordinates>120.3064738,22.7265361,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>百禾小吃部</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區翠屏里德賢路５６０號 </address>
+				<Point>
+					<coordinates>120.3009994,22.7260014,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>紘立企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區文東里文武三街２１０號 </address>
+				<Point>
+					<coordinates>120.2982227,22.6212069,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>朝月冷麵王</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區維生里濱海一路５７號 </address>
+				<Point>
+					<coordinates>120.271795,22.619631,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>好美企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他綜合商品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區頂西里左營大路２９３號１樓 </address>
+				<Point>
+					<coordinates>120.2915059,22.6866865,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>三鳳軒金香鋪</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>宗教、喪葬用品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區興德里三民街９０號 </address>
+				<Point>
+					<coordinates>120.2938949,22.6364041,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>昀筑專業髮型工作坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>理髮店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區惠楠里建楠路１４６號１４８號 </address>
+				<Point>
+					<coordinates>120.327012,22.727124,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>黑皮憲企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振華里民享街１５７號 </address>
+				<Point>
+					<coordinates>120.3032653,22.6212195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>小佳人生活茶飲店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區建昌里軍校路９１７號１樓 </address>
+				<Point>
+					<coordinates>120.2923159,22.71087,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>博大小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新上里富民路３５號 </address>
+				<Point>
+					<coordinates>120.3050746,22.6578781,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>驚燕十分餐飲坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶安里覺民路６４１號１樓 </address>
+				<Point>
+					<coordinates>120.3278926,22.6411918,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>長勝鴻車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鼎泰里鼎泰街２０９號 </address>
+				<Point>
+					<coordinates>120.3182337,22.6657344,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>午后服飾行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振華里民享街１５９號 </address>
+				<Point>
+					<coordinates>120.3032147,22.6211952,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>彌陀煤氣行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>桶裝瓦斯零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市彌陀區彌壽里９鄰中正路４巷１－１號１樓 </address>
+				<Point>
+					<coordinates>120.2487286,22.7803429,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>巴洛克韓飾品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區興仁里中山路１７３―１號１樓 </address>
+				<Point>
+					<coordinates>120.3575525,22.6230448,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>新太子日式燒烤</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區福誠里三誠路９５號 </address>
+				<Point>
+					<coordinates>120.3244816,22.5940555,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>愛誠服飾名店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文德里青年路２段３７９號１樓 </address>
+				<Point>
+					<coordinates>120.3512218,22.6420771,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>冠美美妍舘</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大寮區三隆里００１鄰鳳林三路８２號 </address>
+				<Point>
+					<coordinates>120.4012046,22.5966512,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>好樂勢眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區後紅里１７鄰岡燕路７０號１樓 </address>
+				<Point>
+					<coordinates>120.2983778,22.7924977,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>尚程水果行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>蔬菜零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區明正里４２鄰草衙二路３４０之１號１樓 </address>
+				<Point>
+					<coordinates>120.3235661,22.5775045,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>芳如精品舘</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市路竹區社南里智仁街２３７號 </address>
+				<Point>
+					<coordinates>120.2644498,22.8584156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>協幼嬰兒用品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>飲料零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大社區觀音里２０鄰大新路２－１號 </address>
+				<Point>
+					<coordinates>120.3493999,22.7250763,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>東勝茶莊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>茶葉零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區苓昇里苓雅二路１９４號 </address>
+				<Point>
+					<coordinates>120.2957554,22.616214,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>郁芳茶莊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>茶葉零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶玉里皓東路２１６號 </address>
+				<Point>
+					<coordinates>120.3349641,22.6498382,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>年順汽車材料行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>mPOS行動收單</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他汽車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區盛昌里久昌街３６１號 </address>
+				<Point>
+					<coordinates>120.2815565,22.7146647,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>彧丞早餐店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶業里義華路３５號 </address>
+				<Point>
+					<coordinates>120.3443446,22.6420964,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>來立鎖印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區本揚里澄和路８３號１樓 </address>
+				<Point>
+					<coordinates>120.3444032,22.6443869,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>名喬服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區晴朗里苓雅一路１９７號 </address>
+				<Point>
+					<coordinates>120.3106664,22.6209733,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>海灣海產店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶興里正忠路２０５－５號 </address>
+				<Point>
+					<coordinates>120.3303299,22.6440837,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>思前緣餐飲館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區尾南里孔營路７８號 </address>
+				<Point>
+					<coordinates>120.2957187,22.6896931,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>衣庫服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區二苓里漢民路１３１號 </address>
+				<Point>
+					<coordinates>120.350492,22.564308,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>樂妍商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區中和里３鄰裕昌街６１號１樓 </address>
+				<Point>
+					<coordinates>120.3475923,22.6269329,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>政億機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大寮區永芳里力行路２０５號１樓 </address>
+				<Point>
+					<coordinates>120.396752,22.6058923,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>雅聞養生美容</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市路竹區竹東里１３鄰中興路６２號１樓 </address>
+				<Point>
+					<coordinates>120.2612341,22.8598508,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>新技髮型美容</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區安祥里六合路４４號 </address>
+				<Point>
+					<coordinates>120.3180126,22.6323066,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>國順機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里興隆街４２－１號 </address>
+				<Point>
+					<coordinates>120.3188226,22.6471164,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>龍德一商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區本武里建工路３４５號 </address>
+				<Point>
+					<coordinates>120.330992,22.652909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>味芳珍咖啡牛奶</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶珠里大豐二路１５５號 </address>
+				<Point>
+					<coordinates>120.328971,22.646206,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>綺力專業洗衣坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>洗衣服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區蕉園里復橫一路２３４號 </address>
+				<Point>
+					<coordinates>120.305476,22.6295946,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>采堤精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里新田路８６號 </address>
+				<Point>
+					<coordinates>120.3052348,22.6229309,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>中華水晶精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>金（銀）飾零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區華豐里華榮路３０３號 </address>
+				<Point>
+					<coordinates>120.2966421,22.6665723,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>中華水晶精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>金（銀）飾零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區華豐里華榮路３０３號 </address>
+				<Point>
+					<coordinates>120.2966421,22.6665723,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>哈克狗與湯姆貓寵物生活館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>寵物用品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區華堂里四維三路１７４－５號１樓 </address>
+				<Point>
+					<coordinates>120.30741,22.618687,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>祥隱通訊維修</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他未分類個人及家庭用品維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鹽埕區教仁里建國四路１４４號１樓 </address>
+				<Point>
+					<coordinates>120.2806595,22.6259609,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>欣技髮型美容</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區中正里廣州一街１５７之２號 </address>
+				<Point>
+					<coordinates>120.3158871,22.6270852,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>彩珀名店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>M-POS行動收單</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞昌里瑞隆路２１６號１樓 </address>
+				<Point>
+					<coordinates>120.3340621,22.6058392,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>藝視形態精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１６７巷２７號 </address>
+				<Point>
+					<coordinates>120.3027324,22.6232407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>沛姿精品服裝工作室</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區仁壽里００７鄰溪西路１８號１樓 </address>
+				<Point>
+					<coordinates>120.290243,22.792479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>亞新企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他綜合商品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區翠屏里德賢路７號１樓 </address>
+				<Point>
+					<coordinates>120.3111588,22.7288227,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>紅伶專業造型沙龍</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區六苓里大鵬路１３０號１、２樓 </address>
+				<Point>
+					<coordinates>120.358526,22.5685382,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>禾豐機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里興隆街２７號 </address>
+				<Point>
+					<coordinates>120.318703,22.6470406,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>妍豐精品行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區建昌里右昌街２１２號 </address>
+				<Point>
+					<coordinates>120.2892161,22.7116607,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>紐約髮廊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鼎泰里明仁路２９號１樓 </address>
+				<Point>
+					<coordinates>120.3139803,22.660825,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>高苑汽車電機冷氣行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車零件、汽車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區西甲里一德路３５號１樓 </address>
+				<Point>
+					<coordinates>120.3081602,22.6101163,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>陳思帆美學坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區安寧里寧夏街３巷２號 </address>
+				<Point>
+					<coordinates>120.3160111,22.6399435,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吉記港式燒臘店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區西山里復興三路１０６―１號 </address>
+				<Point>
+					<coordinates>120.310482,22.610447,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>懶女人女衣商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區榮復里自強三路２４３號１樓 </address>
+				<Point>
+					<coordinates>120.297269,22.61985,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>潘二服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１６１號 </address>
+				<Point>
+					<coordinates>120.3034754,22.6233068,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>信誠廚具行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>街口支付</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>家用排油煙機零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區復國里三多二路３８１號１樓 </address>
+				<Point>
+					<coordinates>120.317025,22.6179661,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>信誠廚具行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>LINE</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>家用排油煙機零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區復國里三多二路３８１號１樓 </address>
+				<Point>
+					<coordinates>120.317025,22.6179661,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>翔大坊布行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區青山里中正四路１１９號 </address>
+				<Point>
+					<coordinates>120.297497,22.629563,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>興楠眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區中陽里建楠路１９１號１樓 </address>
+				<Point>
+					<coordinates>120.32558,22.7268621,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>永鎰企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區加昌里壽民路５５號 </address>
+				<Point>
+					<coordinates>120.2957307,22.7211698,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>綺特美髮美容</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區正氣里忠孝一路２１號 </address>
+				<Point>
+					<coordinates>120.307073,22.6224355,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>金鐘車業</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區新武里武營路１６４號１樓 </address>
+				<Point>
+					<coordinates>120.3377627,22.6097145,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>淯沙服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正忠路８３號 </address>
+				<Point>
+					<coordinates>120.3302633,22.6427357,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>朝盛機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區尾北里左營大路５６０號 </address>
+				<Point>
+					<coordinates>120.2963352,22.6902315,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>百花坊花藝設計</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>切花、盆栽零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區黎明里六合一路１６６號１樓 </address>
+				<Point>
+					<coordinates>120.302917,22.6330624,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>一品羊肉店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區後協里大昌街７９號１樓 </address>
+				<Point>
+					<coordinates>120.2820623,22.7880589,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>雅藝花田</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>花卉材料、園藝器具零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區壽天里１２鄰河華路３７號１樓 </address>
+				<Point>
+					<coordinates>120.2902841,22.8010947,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>元發男飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區壽天里平和路１７０號１樓 </address>
+				<Point>
+					<coordinates>120.2924778,22.7951907,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>禾晨飲料店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文福里青年路２段２０５號１樓 </address>
+				<Point>
+					<coordinates>120.3503219,22.6365244,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>庭香園花店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>切花、盆栽零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區順苓里樂利路６５號１樓 </address>
+				<Point>
+					<coordinates>120.356998,22.568885,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>笠詩刊雜誌社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>書籍、雜誌零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區正義里正義路３巷８號 </address>
+				<Point>
+					<coordinates>120.337579,22.6277419,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>存香茶行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>茶葉零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區廈莊里孔鳳路３０３號１樓 </address>
+				<Point>
+					<coordinates>120.362221,22.581302,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>玉竹軒餐飲店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區玉衡里玉竹一街２０號 </address>
+				<Point>
+					<coordinates>120.3019274,22.6253745,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>醉牛牛肉麵館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里正興路１０７號 </address>
+				<Point>
+					<coordinates>120.3204122,22.6457433,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>金大麵食坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐食攤販</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區安祥里六合路４２―８號 </address>
+				<Point>
+					<coordinates>120.318145,22.632305,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>彩鶴御飯卷</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐食攤販</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區德智里泰安街５１號 </address>
+				<Point>
+					<coordinates>120.3110981,22.6440544,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>聚茶館健康茶飲</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>飲料零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區忠正里大榮街１９４號 </address>
+				<Point>
+					<coordinates>120.276181,22.653623,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>立彩企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>影印服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區建工路４７７號１樓 </address>
+				<Point>
+					<coordinates>120.323178,22.649003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>阿成水果行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>農產品（果菜）批發市場承銷</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區灣復里民族一路３１２巷４弄１８號 </address>
+				<Point>
+					<coordinates>120.315507,22.650479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>大摳胖碳烤三明治</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>Apply</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鹽埕區中原里大公路７８號１樓 </address>
+				<Point>
+					<coordinates>120.283238,22.627624,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>慈膳養生素食</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶興里大豐二路１９８號１樓 </address>
+				<Point>
+					<coordinates>120.3316165,22.6454407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>悟饕榮成餐飲店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區福山里榮成三街５７號１樓 </address>
+				<Point>
+					<coordinates>120.3215495,22.6790752,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吉羊薯條</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區復國里光華二路２７３號 </address>
+				<Point>
+					<coordinates>120.317962,22.614506,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>瓔芳衣物舫</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>整合性支付工具-支援多種類行動支付(如：淘錢包&amp;amp;hellip;等)</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區光耀里渤海街４５號１樓 </address>
+				<Point>
+					<coordinates>120.3119954,22.6299368,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>惟道美食館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區加昌里樂群路１１８號１樓 </address>
+				<Point>
+					<coordinates>120.297524,22.7177111,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>志朋車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區忠正里九如四路９９５號 </address>
+				<Point>
+					<coordinates>120.278708,22.656123,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吉旺鎖印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區玉衡里文橫一路５巷５號 </address>
+				<Point>
+					<coordinates>120.3028483,22.6242662,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>欣一鎖印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>開鎖及配鎖</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區正興里正興路５６號１樓 </address>
+				<Point>
+					<coordinates>120.3217848,22.6455648,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>人方美容坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區文昌里六合路９６號 </address>
+				<Point>
+					<coordinates>120.3162687,22.6321432,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>羽美學館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鼎中里鼎強街４１―１０號１樓 </address>
+				<Point>
+					<coordinates>120.3202683,22.6630241,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>富洺淨水設備</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>家用濾水器、淨水器零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新光里華夏路５５５號１樓 </address>
+				<Point>
+					<coordinates>120.3000601,22.6756801,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>馨香花店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>切花、盆栽零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市林園區林園里３２鄰林園北路１６７號 </address>
+				<Point>
+					<coordinates>120.392913,22.508556,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>源昌機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大樹區水寮里中山路１７８－１號１樓 </address>
+				<Point>
+					<coordinates>120.409201,22.6672982,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>艾蕊絲藝術美甲沙龍</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美甲美睫</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區忠孝里光復路一段７０號 </address>
+				<Point>
+					<coordinates>120.35219,22.629295,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>僑美寵物美容量販</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>寵物照顧及訓練</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市路竹區竹南里２３鄰中山路７８６號１樓 </address>
+				<Point>
+					<coordinates>120.2609509,22.8549213,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>佶益企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>清潔用品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市橋頭區橋頭里２８鄰成功路１９１號 </address>
+				<Point>
+					<coordinates>120.3102661,22.7570018,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>可可女神巧克力工坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>糖果餅乾零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區寶民里水源路１７０號 </address>
+				<Point>
+					<coordinates>120.3383196,22.6365718,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>比樂企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區南和里五甲二路４２９號１樓 </address>
+				<Point>
+					<coordinates>120.334585,22.597067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>比樂企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區南和里五甲二路４２９號１樓 </address>
+				<Point>
+					<coordinates>120.334585,22.597067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吉利芋冰城</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市甲仙區西安里１４鄰文化路６４號１樓 </address>
+				<Point>
+					<coordinates>120.5884177,23.0817669,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>順發米店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>稻米零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區新興里１鄰光明路９８號 </address>
+				<Point>
+					<coordinates>120.3612981,22.6237526,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>尚青小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市林園區仁愛里３鄰東林西路１４２號１樓 </address>
+				<Point>
+					<coordinates>120.3920594,22.5035659,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>尚大小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳥松區鳥松里大埤路２８號 </address>
+				<Point>
+					<coordinates>120.3614447,22.6588784,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>哈米食堂</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>便當、自助餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市燕巢區西燕里１鄰中民路５８６號 </address>
+				<Point>
+					<coordinates>120.3625101,22.7933379,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>好鮮茶飲</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市燕巢區南燕里２４鄰中民路６３１號１樓 </address>
+				<Point>
+					<coordinates>120.3604651,22.7932632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>宥宏汽車美容工作室</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車美容</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大寮區山頂里０２４鄰青峰街３０號 </address>
+				<Point>
+					<coordinates>120.3879401,22.6104733,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>麵包花園烘焙坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>經營網路購物</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞華里瑞福路１３２號 </address>
+				<Point>
+					<coordinates>120.335787,22.6078431,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>萱泓花藝社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他個人及家庭用品租賃</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大樹區龍目里１４鄰龍目路１７２號１樓 </address>
+				<Point>
+					<coordinates>120.4121527,22.6877354,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>莎莎小吃店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>經營網路購物</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳥松區鳥松里松埔北巷４－１４６號１４樓之２ </address>
+				<Point>
+					<coordinates>120.3718174,22.6661471,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>嘉眾車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區安和里察哈爾一街１１８號１樓 </address>
+				<Point>
+					<coordinates>120.3047349,22.6476763,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>久力體育用品專賣店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他運動用品及器材零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新上里自由二路７９號１樓 </address>
+				<Point>
+					<coordinates>120.3086415,22.6587744,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>豐隆車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>街口支付</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>全新機車零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區宏昌里加宏路２０２號 </address>
+				<Point>
+					<coordinates>120.293812,22.7170341,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>梁視光學眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區順苓里漢民路３６３號１樓 </address>
+				<Point>
+					<coordinates>120.3562933,22.5670243,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>亨榮食品行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他食品、飲料及菸草製品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區長生里自強二路４８號 </address>
+				<Point>
+					<coordinates>120.2961348,22.6236013,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>蒂一髮型沙龍</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區正文里武廟路１６４―４號 </address>
+				<Point>
+					<coordinates>120.3267022,22.6313112,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>棠發食品行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區新民里臨海二路３４號１樓 </address>
+				<Point>
+					<coordinates>120.2723734,22.622887,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>神仙半島經典泰式生活館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區普照里復興二路５４號１樓 </address>
+				<Point>
+					<coordinates>120.3114132,22.6176313,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>寶石服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區新上里裕誠路３３８號 </address>
+				<Point>
+					<coordinates>120.3077831,22.6654465,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>咖啡林企業社</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>咖啡館</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區鼎泰里鼎祥街１２號 </address>
+				<Point>
+					<coordinates>120.3157793,22.6650775,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>尚義車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區尚義里尚義街４１號１樓 </address>
+				<Point>
+					<coordinates>120.3150483,22.6296392,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>天麗茗茶行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>茶葉零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市小港區泰山里宏平路１４８號１樓 </address>
+				<Point>
+					<coordinates>120.3617305,22.5703999,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>新興裕商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>雜貨店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區蕉園里球庭路６０號 </address>
+				<Point>
+					<coordinates>120.3049156,22.6304503,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>老三小吃部</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區社東里自強二路６１號 </address>
+				<Point>
+					<coordinates>120.295792,22.6238026,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>富鎰企業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他汽車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區本元里大豐二路５３８號１樓 </address>
+				<Point>
+					<coordinates>120.3339077,22.6503706,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>內向咖啡館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>飲料零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區新生里市中一路２６８號１樓 </address>
+				<Point>
+					<coordinates>120.2890918,22.6318858,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>尤卡造型髮廊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區民享街１２７號 </address>
+				<Point>
+					<coordinates>120.3038229,22.6214019,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>髮曰館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區翠屏里德祥路１８０號 </address>
+				<Point>
+					<coordinates>120.307995,22.7267492,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>宏文機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車零件、機車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區林中里光華一路８４號 </address>
+				<Point>
+					<coordinates>120.3172049,22.6201927,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>杜其服飾店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區振成里文橫二路１４３巷２２號 </address>
+				<Point>
+					<coordinates>120.3031496,22.6226022,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>里歐先生歐式早餐</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區中東里錦田路８９號１樓 </address>
+				<Point>
+					<coordinates>120.310448,22.633275,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>良匠商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他食品、飲料及菸草製品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區永寧里林森一路１４號 </address>
+				<Point>
+					<coordinates>120.3050169,22.625227,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>海專早餐店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>早餐店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市楠梓區瑞屏里海專路１６１號１樓 </address>
+				<Point>
+					<coordinates>120.314252,22.724364,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>瑞隆吳家紅茶冰</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>冰果店、冷（熱）飲店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞崗里瑞隆路３７２號１樓 </address>
+				<Point>
+					<coordinates>120.3310404,22.605609,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>魯班商行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞北里瑞愛街９１號 </address>
+				<Point>
+					<coordinates>120.3276902,22.6080984,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>文彩影印行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>影印服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鼓山區哨船頭里哨船街７７―２號１樓 </address>
+				<Point>
+					<coordinates>120.2688855,22.6230173,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>吉嶸機車行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區西甲里林森三路４１號 </address>
+				<Point>
+					<coordinates>120.307302,22.611096,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>草圖創意咖啡館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>咖啡館</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區青山里中正四路１１１號 </address>
+				<Point>
+					<coordinates>120.297711,22.629629,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>名人光學眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市林園區東林里９鄰林園北路６８號１樓 </address>
+				<Point>
+					<coordinates>120.3957771,22.5050673,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>心寶石服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區文橫二路１１９號 </address>
+				<Point>
+					<coordinates>120.3043104,22.621113,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>心寶石服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區文橫二路１１９號 </address>
+				<Point>
+					<coordinates>120.3043104,22.621113,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>超級愛狗寵物沙龍</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>寵物零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市左營區福山里民族一路１０１８號 </address>
+				<Point>
+					<coordinates>120.319886,22.681538,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>真有莉日本精品百貨</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市新興區新田路１２９號 </address>
+				<Point>
+					<coordinates>120.3042536,22.6223511,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>松銘機車精品店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>汽車零件、汽車百貨零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區安康里九如一路８５３號１樓 </address>
+				<Point>
+					<coordinates>120.3188988,22.6398393,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>彌亞衣著館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區榮復里允文街４３號 </address>
+				<Point>
+					<coordinates>120.2974388,22.6192991,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>鑫寶駒車業行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>機車維修</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市大寮區中興里中正路１０號 </address>
+				<Point>
+					<coordinates>120.386941,22.6180961,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>薇朵美容材料行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他化粧品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區文德里文龍路７７號２樓 </address>
+				<Point>
+					<coordinates>120.3481776,22.6436627,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>昀技髮型工作坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>LINE</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>理髮店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區盛興里廣西路５１２號１．２樓 </address>
+				<Point>
+					<coordinates>120.3076167,22.6141492,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>舒純衣舖</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區文西里新田路２７４號 </address>
+				<Point>
+					<coordinates>120.2970375,22.6201538,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>敍事曲咖啡館</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>咖啡館</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市苓雅區普照里永定街８５號 </address>
+				<Point>
+					<coordinates>120.311638,22.618844,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>優逸美容坊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他美容美體服務</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區瑞竹里光遠路２６號１樓 </address>
+				<Point>
+					<coordinates>120.3675431,22.623374,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>姿欣髮廊</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>美髮院及髮廊</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區榮復里新田路３２３號２樓 </address>
+				<Point>
+					<coordinates>120.2968109,22.6198649,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>力羽美羽球專賣店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他運動用品及器材零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區安和里博愛一路２７６號１樓 </address>
+				<Point>
+					<coordinates>120.303679,22.648666,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>力羽美羽球專賣店</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他運動用品及器材零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市三民區安和里博愛一路２７６號１樓 </address>
+				<Point>
+					<coordinates>120.303679,22.648666,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>珍珠女孩精品屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>服裝零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鹽埕區光明里大仁路１號 </address>
+				<Point>
+					<coordinates>120.2868357,22.6243245,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>六度本舖</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>麵店、小吃店</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鳳山區誠義里凱旋路１９２號１樓 </address>
+				<Point>
+					<coordinates>120.3574039,22.6075112,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>哈克焗烤</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>餐館、餐廳</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區維仁里溪東路７０號 </address>
+				<Point>
+					<coordinates>120.2914596,22.7911364,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>優比服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>未分類其他服飾品零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前金區榮復里新田路２７６號１樓 </address>
+				<Point>
+					<coordinates>120.2969003,22.6201481,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>我的眼鏡行</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>眼鏡及其零配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市岡山區碧紅里維新東街６６號１樓 </address>
+				<Point>
+					<coordinates>120.2973673,22.7936807,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>米娜精品包</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市鹽埕區瀨南里鹽埕街６０號１樓 </address>
+				<Point>
+					<coordinates>120.2841718,22.6262266,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>小米時尚屋</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>台灣Pay</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞興里瑞北路１８７號１樓 </address>
+				<Point>
+					<coordinates>120.3296565,22.6087609,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='縣市'>
+								<value>高雄市</value>
+							</Data>
+												<Data name='營業人名稱'>
+								<value>小英精品服飾</value>
+							</Data>
+												<Data name='接受行動支付工具'>
+								<value>感應付款-信用卡或金融卡</value>
+							</Data>
+												<Data name='行業代號名稱'>
+								<value>其他服裝及其配件零售</value>
+							</Data>
+									</ExtendedData>
+								<address>高雄市前鎮區瑞文里瑞北路１５４號１樓 </address>
+				<Point>
+					<coordinates>120.3301126,22.6089837,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
